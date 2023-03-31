@@ -1,4 +1,4 @@
-$white: #ffffff;
+$white: #c7cccf;
 $black: #000000;
 $primary1: #f0d43a;
 $primary2: #fd6326;
@@ -34,7 +34,7 @@ $textCol: #1f1f1f;
 body {
   @include main-font;
   color: #0c0c0c;
-  background-color: #ffffff;
+  background-color: #c7cccf;
   overflow-x: hidden;
 }
 
